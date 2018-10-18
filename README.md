@@ -1,1 +1,2 @@
-# lessons
+# Lessons
+(see folders)
