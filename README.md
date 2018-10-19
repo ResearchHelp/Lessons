@@ -9,4 +9,4 @@ Thanks!
 // note, I use .pdf files so that you can see the documents I've uploaded without having to download them   
 // also I upload .docx files (Microsoft Word) of the same documents
 
-// if you see just_a_file.txt, don't worry about it; thoes files just exist to keep folders when I make updates
+// if you see just_a_file.txt, don't worry about it; those files just exist to keep folders when I make updates
