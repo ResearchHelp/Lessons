@@ -6,7 +6,7 @@ I copied these documents by typing, so if you find any mistakes please notify me
 In addition, if you found this repository useful, please star it so that others can find it (and don't forget to tell others about this repo!).      
 Thanks!      
      
-// if you want to make a specific addition in this repo:    
+# Making additions in this repo
 1) introduce yourself     
 2) paste the document as text to ResearchHelpHedgehog@gmail.com (do not send me an attachment because I won't open it)     
 3) tell me why you think this document should go in this repo (and how the document has helped your research, if it has)     
